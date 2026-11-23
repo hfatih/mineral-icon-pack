@@ -119,3 +119,7 @@ python validate.py
 ```
 
 `glyphs.py` simgeleri, `materials.py` taş dokularını ve kabartmayı tanımlar. `build.py` paketi, kapağı ve kataloğu `dist/` altında üretir. `validate.py` arşiv bütünlüğünü, manifestteki dosya yollarını, 144 PNG'yi ve kapağı kontrol eder.
+
+## Lisans
+
+Bu sürümde bize ait kod ve özgün içerik [GNU GPL v3.0](LICENSE) (GPL-3.0-only) altında yayımlanır. Üçüncü taraf kod, yazı tipleri, görseller, veriler ve marka öğeleri kendi lisans ve atıflarına tabidir.

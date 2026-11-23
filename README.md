@@ -130,3 +130,7 @@ mineral-icon-pack/
     ├── mineral-kapak.webp
     └── mineral-onizleme.webp
 ```
+
+## License
+
+Project-owned code and original material in this revision are licensed under [GNU GPL v3.0](LICENSE) (GPL-3.0-only). Third-party code, fonts, imagery, data, and brand assets retain their own terms and attributions.
